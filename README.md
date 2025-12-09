@@ -2,7 +2,7 @@
 
 👋 I’m @AaronAstle
 
-I’m driven by developing UI's that engage and include all users. During daywalker hours you can catch me working on [Microsoft Learn](https://learn.microsoft.com).
+I’m driven by developing UI's that engage and include all users. During business hours you can catch me working on [Microsoft Azure Signup](https://azure.com).
 I also mentor for @Vets-Who-Code. 
 
-If you have questions or feel like chatting, you can reach me [Twitter](https://twitter.com/aaronpastle) or [LinkedIn](https://www.linkedin.com/in/aaronpastle/)
+If you have questions or feel like chatting, you can reach me [LinkedIn](https://www.linkedin.com/in/aaronpastle/)
